@@ -43,8 +43,3 @@ The oscillator drives the two mixer branches with phase-shifted local-oscillator
 ## Tools and components
 
 LTspice, UA741 operational amplifiers, 1N4148 diodes, discrete NMOS transistors, TSMC 180 nm models, function generators, and a digital storage oscilloscope.
-
-## Acknowledgment
-
-Simulation files were shared with permission by Satvik Shrivastava (`blotify`) from a parallel implementation of the same course project. The linked report and hardware measurements document the implementation by Navya Upadhyay, Parth Tehlan, and Arnav Jain.
-
